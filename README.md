@@ -1,7 +1,7 @@
 # 🐎 Fluent Horse
 
-![Fluent Horse Cover](https://via.placeholder.com/1200x400/E2E8F0/1E293B?text=Fluent+Horse+-+Learn+Languages+with+Real+News)
-*(Sugestão: Substitua o link da imagem acima por um print real e bonito da tela inicial do seu projeto)*
+<img src="https://github.com/user-attachments/assets/47584933-44c6-4afd-8ec1-c8b30db778b9" width="800" alt="Fluent Horse Dashboard" />
+
 
 **Fluent Horse** é uma plataforma inovadora (MVP) desenhada para revolucionar a forma como autodidatas estudam idiomas. O projeto integra curadoria automatizada de notícias, inteligência artificial e o método de *Spaced Repetition* (Repetição Espaçada) para oferecer um aprendizado contextual e dinâmico.
 
