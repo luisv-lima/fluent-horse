@@ -4,7 +4,7 @@
 
 
 **Fluent Horse** é uma plataforma inovadora (MVP) desenhada para revolucionar a forma como autodidatas estudam idiomas. O projeto integra curadoria automatizada de notícias, inteligência artificial e o método de *Spaced Repetition* (Repetição Espaçada) para oferecer um aprendizado contextual e dinâmico.
-
+[![Acessar MVP](https://img.shields.io/badge/🚀_Acessar_o_App-Fluent_Horse-2ea44f?style=for-the-badge)](https://fluent-horse-ai.lovable.app/)
 ---
 
 ## 🎯 1. O Problema
